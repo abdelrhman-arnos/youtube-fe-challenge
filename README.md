@@ -31,3 +31,15 @@
 * Use git and make sure the commit messages make sense
 * Try to use CSS and js linters be consistent in the way of writing your code
 * Use state-management
+
+## Reference
+<img src="yt-desktop.jpg" />
+<br />
+<img src="yt-desktop-2.jpg" />
+<br />
+<img src="yt-desktop-3.jpg" />
+<br />
+<img src="yt-mobile.jpg" />
+<br />
+<img src="yt-mobile-1.jpg" />
+<br />
