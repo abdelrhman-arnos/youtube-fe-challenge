@@ -1,4 +1,4 @@
-# Front-end task - YouTube
+# YouTube Front-End Challenge
 
 ## Notes:
 * Add README file with the steps of configuring your app and running it
